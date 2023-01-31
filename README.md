@@ -1,0 +1,2 @@
+# wordpressAdozioni
+Plugin wordpress
