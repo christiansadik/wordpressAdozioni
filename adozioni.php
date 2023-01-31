@@ -28,7 +28,6 @@ function enqueue_custom_scripts(){
         wp_enqueue_script('adozioni-js', WP_PLUGIN_URL . '/adozioni/assets/js/adozioni.js');
     }
 
-    
 };
 add_action('wp_enqueue_scripts', 'enqueue_custom_scripts');
 
